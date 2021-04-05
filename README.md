@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/JumanDas/Space%20Game-Web-WorkFlow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/JumanDas/Space%20Game-Web-WorkFlow/_build/latest?definitionId=5&branchName=master)
+
+
 
 # Contributing
 
